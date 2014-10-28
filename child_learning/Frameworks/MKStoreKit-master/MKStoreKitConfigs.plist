@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict/>
+	<key>Non-Consumables</key>
+	<array>
+		<string>iap001</string>
+		<string>iap002</string>
+		<string>iap003</string>
+		<string>iap004</string>
+		<string>iap005</string>
+		<string>iap006</string>
+		<string>iap007</string>
+		<string>iap008</string>
+	</array>
+	<key>Subscriptions</key>
+	<dict/>
+</dict>
+</plist>
